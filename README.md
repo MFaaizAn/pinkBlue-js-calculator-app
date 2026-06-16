@@ -13,9 +13,6 @@ Sebuah aplikasi kalkulator berbasis web sederhana yang dibangun menggunakan HTML
 ## 🚀 Demo
 👉 [Live Demo / Jalankan Aplikasi](https://mfaaizan.github.io/pinkBlue-js-calculator-app/)
 
-## 📸 Tampilan Aplikasi
-![Pratinjau Kalkulator](https://drive.google.com/file/d/1k_FnADnias_8x9alfzo8vFKo3qZmPgxd/view?usp=drive_link)
-
 ## 🛠️ Teknologi yang Digunakan
 * **HTML5** - Untuk struktur semantik halaman dan elemen input/tombol.
 * **CSS3** - Untuk styling layout menggunakan Flexbox, CSS Grid, dan kustomisasi warna (`hsl`).
